@@ -2,7 +2,7 @@
 
 > Create an virtualenv and source it
 ```bash
-python3 -m virtualenv .venv && source .venv/bin/activate
+python3 -m venv .venv && source .venv/bin/activate
 ```
 > Now install requirements but make sure you're in (.venv)
 ```bash
